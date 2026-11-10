@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" width="900" role="img" aria-label="Juan Pablo Lopez — Senior Software Engineer at Trade Republic, London. Distributed systems, Kotlin, Kafka, Kubernetes.">
+<style>
+.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}
+.name{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;font-weight:800;font-size:58px;fill:#f0f6fc;letter-spacing:-1.5px}
+.muted{fill:#8b949e}.typed{font-size:22px;fill:#e6edf3}
+.blink{animation:blink 1s step-end infinite}
+.ev{animation:flow linear infinite}
+@keyframes blink{50%{opacity:0}}
+@keyframes flow{from{transform:translateX(0)}to{transform:translateX(980px)}}
+@keyframes show{0%{opacity:1}33.33%{opacity:0}100%{opacity:0}}
+.p0{animation:show 12s step-end infinite;animation-delay:0s;opacity:0}
+.c0{animation:type0 12s infinite;animation-delay:0s}
+@keyframes type0{0%{transform:translateX(0);animation-timing-function:steps(52)}11%{transform:translateX(686.4px)}100%{transform:translateX(686.4px)}}
+.p1{animation:show 12s step-end infinite;animation-delay:4s;opacity:0}
+.c1{animation:type1 12s infinite;animation-delay:4s}
+@keyframes type1{0%{transform:translateX(0);animation-timing-function:steps(43)}11%{transform:translateX(567.6px)}100%{transform:translateX(567.6px)}}
+.p2{animation:show 12s step-end infinite;animation-delay:8s;opacity:0}
+.c2{animation:type2 12s infinite;animation-delay:8s}
+@keyframes type2{0%{transform:translateX(0);animation-timing-function:steps(41)}11%{transform:translateX(541.2px)}100%{transform:translateX(541.2px)}}
+@media (prefers-reduced-motion:reduce){.ev,.blink{animation:none}}
+</style>
+<defs>
+  <clipPath id="r"><rect width="900" height="360" rx="18"/></clipPath>
+  <linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#0d1117"/><stop offset=".12" stop-color="#0d1117" stop-opacity="0"/><stop offset=".88" stop-color="#0d1117" stop-opacity="0"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+  <radialGradient id="glow" cx=".85" cy="0" r=".9"><stop offset="0" stop-color="#3ddc97" stop-opacity=".16"/><stop offset="1" stop-color="#3ddc97" stop-opacity="0"/></radialGradient>
+</defs>
+<g clip-path="url(#r)">
+  <rect width="900" height="360" fill="#0d1117"/>
+  <rect width="900" height="190" fill="url(#glow)"/>
+  <text x="60" y="62" class="mono muted" font-size="17"><tspan fill="#3ddc97">~/juanpalopez</tspan> $ whoami</text>
+  <text x="58" y="132" class="name">Juan Pablo Lopez</text>
+  <text x="60" y="170" class="mono muted" font-size="18">Senior Software Engineer · Trade Republic · London</text>
+  <text x="60" y="222" class="mono" font-size="22" fill="#3ddc97">›</text>
+  <g class="p0">
+    <text x="84" y="222" class="mono typed" textLength="686.4" lengthAdjust="spacingAndGlyphs">distributed systems for money that must not get lost</text>
+    <g class="c0"><rect x="84" y="200" width="814" height="32" fill="#0d1117"/><rect class="blink" x="86" y="203" width="11" height="24" fill="#3ddc97"/></g>
+  </g>
+  <g class="p1">
+    <text x="84" y="222" class="mono typed" textLength="567.6" lengthAdjust="spacingAndGlyphs">kotlin · kafka · kubernetes · observability</text>
+    <g class="c1"><rect x="84" y="200" width="814" height="32" fill="#0d1117"/><rect class="blink" x="86" y="203" width="11" height="24" fill="#3ddc97"/></g>
+  </g>
+  <g class="p2">
+    <text x="84" y="222" class="mono typed" textLength="541.2" lengthAdjust="spacingAndGlyphs">ex-Meta · ex-Braze · MSc Computer Science</text>
+    <g class="c2"><rect x="84" y="200" width="814" height="32" fill="#0d1117"/><rect class="blink" x="86" y="203" width="11" height="24" fill="#3ddc97"/></g>
+  </g>
+  <g stroke="#21262d" stroke-width="1.5"><path d="M0 278H900M0 304H900M0 330H900"/></g>
+  <g>
+    <rect class="ev" x="-40" y="273" width="14" height="10" rx="3" fill="#3ddc97" opacity="0.55" style="animation-duration:9s;animation-delay:-0.26s"/>
+    <rect class="ev" x="-40" y="273" width="14" height="10" rx="3" fill="#3ddc97" opacity="0.3" style="animation-duration:9s;animation-delay:-2.02s"/>
+    <rect class="ev" x="-40" y="273" width="30" height="10" rx="3" fill="#3ddc97" opacity="1" style="animation-duration:9s;animation-delay:-3.08s"/>
+    <rect class="ev" x="-40" y="273" width="14" height="10" rx="3" fill="#3ddc97" opacity="1" style="animation-duration:9s;animation-delay:-5.23s"/>
+    <rect class="ev" x="-40" y="273" width="22" height="10" rx="3" fill="#3ddc97" opacity="1" style="animation-duration:9s;animation-delay:-6.07s"/>
+    <rect class="ev" x="-40" y="273" width="30" height="10" rx="3" fill="#3ddc97" opacity="0.55" style="animation-duration:9s;animation-delay:-7.69s"/>
+    <rect class="ev" x="-40" y="299" width="30" height="10" rx="3" fill="#3ddc97" opacity="1" style="animation-duration:13s;animation-delay:-0.05s"/>
+    <rect class="ev" x="-40" y="299" width="30" height="10" rx="3" fill="#3ddc97" opacity="0.3" style="animation-duration:13s;animation-delay:-2.92s"/>
+    <rect class="ev" x="-40" y="299" width="14" height="10" rx="3" fill="#3ddc97" opacity="0.3" style="animation-duration:13s;animation-delay:-4.80s"/>
+    <rect class="ev" x="-40" y="299" width="14" height="10" rx="3" fill="#3ddc97" opacity="1" style="animation-duration:13s;animation-delay:-6.97s"/>
+    <rect class="ev" x="-40" y="299" width="14" height="10" rx="3" fill="#3ddc97" opacity="0.55" style="animation-duration:13s;animation-delay:-8.70s"/>
+    <rect class="ev" x="-40" y="299" width="30" height="10" rx="3" fill="#3ddc97" opacity="1" style="animation-duration:13s;animation-delay:-11.17s"/>
+    <rect class="ev" x="-40" y="325" width="30" height="10" rx="3" fill="#3ddc97" opacity="0.3" style="animation-duration:11s;animation-delay:-0.46s"/>
+    <rect class="ev" x="-40" y="325" width="30" height="10" rx="3" fill="#3ddc97" opacity="0.3" style="animation-duration:11s;animation-delay:-1.98s"/>
+    <rect class="ev" x="-40" y="325" width="22" height="10" rx="3" fill="#3ddc97" opacity="1" style="animation-duration:11s;animation-delay:-4.18s"/>
+    <rect class="ev" x="-40" y="325" width="14" height="10" rx="3" fill="#3ddc97" opacity="0.3" style="animation-duration:11s;animation-delay:-5.94s"/>
+    <rect class="ev" x="-40" y="325" width="14" height="10" rx="3" fill="#3ddc97" opacity="0.55" style="animation-duration:11s;animation-delay:-7.38s"/>
+    <rect class="ev" x="-40" y="325" width="22" height="10" rx="3" fill="#3ddc97" opacity="0.55" style="animation-duration:11s;animation-delay:-9.71s"/>
+    </g>
+  <rect y="262" width="900" height="84" fill="url(#fade)"/>
+</g>
+<rect x=".75" y=".75" width="898.5" height="358.5" rx="18" fill="none" stroke="#30363d" stroke-width="1.5"/>
+</svg>
